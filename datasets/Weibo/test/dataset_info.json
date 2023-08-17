@@ -1,0 +1,49 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_size": 2246905,
+  "description": "",
+  "download_checksums": {
+    "C:\\Users\\zhenyu\\Desktop\\\u5f39\u5e55\\experiment\\Bert\\data_w5.csv": {
+      "num_bytes": 2190854,
+      "checksum": null
+    }
+  },
+  "download_size": 2190854,
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "e_at": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "p_at": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 4437759,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 2246905,
+      "num_examples": 5619,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
